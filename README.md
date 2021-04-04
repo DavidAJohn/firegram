@@ -1,3 +1,6 @@
+### This project was created from Shaun Pelling's course ["Build a Photo Gallery With React and Firebase"](https://youtu.be/vUe91uOx7R0)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
